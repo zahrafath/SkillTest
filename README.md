@@ -1,0 +1,1 @@
+1. Click on the captions under the "services" section to see the elements change color when one of the elements is clicked.
